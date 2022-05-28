@@ -1,0 +1,58 @@
+header {
+    background-color: green;
+}
+
+.linkColor {
+    color: lightgray;
+}
+
+.linkColor:hover {
+    color: white;
+}
+
+.font-tiitle-card {
+    font-family: 'Roboto light';
+    font-size: 20px;
+    text-align: left;
+}
+
+.font-tiitle-card-2 {
+    font-family: 'Roboto light';
+    font-size: 16px;
+    text-align: left;
+    color: lightgrey;
+}
+
+.font-tiitle-card-3 {
+    font-family: 'Roboto light';
+    font-size: 13px;
+    text-align: left;
+    color: lightgrey;
+}
+
+.font-price {
+    font-family: 'Roboto light';
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    color: green;
+    width: max-content;
+}
+
+.price-before {
+    text-decoration: line-through;
+    margin-bottom: 0px;
+}
+
+hr {
+    margin-bottom: 1px;
+}
+
+.bgEmail {
+    background-color: green;
+}
+
+.footerImg {
+    width: 8%;
+    height: 8%;
+}
